@@ -27,6 +27,7 @@ dependencies {
     implementation 'org.springframework.security:spring-security-web:5.5.1'
     implementation 'org.springframework.security:spring-security-config:5.5.1'
     implementation 'org.springframework.security:spring-security-core:5.5.1'
+    implementation 'org.springframework.security:spring-security-taglibs:5.5.1'
 
     compileOnly('javax.servlet:javax.servlet-api:4.0.1')
 
